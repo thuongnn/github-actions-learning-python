@@ -2,8 +2,6 @@
 
 Convert XML to JSON
 
-
-
 ### prerequisite
 - you need to install below library using pip
 - $ pip install xmltodict
